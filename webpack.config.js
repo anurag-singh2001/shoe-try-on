@@ -44,7 +44,9 @@ module.exports = {
         publicPath: "/deepar-resources"
       },
     ],
+    disableHostCheck: true,
     compress: true,
     port: 9000,
+    public: "shoe-try-on.onrender.com",
   },
 };
