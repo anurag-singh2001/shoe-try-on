@@ -23,7 +23,7 @@ console.log("Deepar version: " + deepar.version);
   
   // Initialize DeepAR.
   const deepAR = await deepar.initialize({
-    licenseKey: 'bd7ff7e14f689cc5709b21176ea51108f9e65fac6e48c64dfc1a61b66548aff2aee44966bba9f457',
+    licenseKey: '152d81d54b507e6d13039013705ed9ce57601e141e867f40b579f2e9f2e33400a939e5616701a9f0',
     canvas: canvas,
     effect: 'effects/Shoe', // The shoe-try-on effect file.
     additionalOptions: {
