@@ -47,6 +47,6 @@ module.exports = {
     disableHostCheck: true,
     compress: true,
     port: 9000,
-    public: "shoe-try-on.onrender.com",
+    allowedHosts: "shoe-try-on.onrender.com",
   },
 };
